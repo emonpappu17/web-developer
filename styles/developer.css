@@ -1,0 +1,127 @@
+
+.container {
+    position: relative;
+  }
+  
+ 
+  .text-block {
+    position: absolute;
+    top: 216px;
+    bottom: 365px;
+    background-color: none;
+    color: none;
+    padding-left: 844px;
+    padding-right: 231px;
+    text-align: right;
+  }
+  .header-text{
+    font-size: 65px;
+    margin-bottom: 24px;
+  }
+  
+  .btn-primary{
+    border-radius: 5px;
+    color: #FFFFFF;
+    background-color: #F15B22;
+    border: 0;
+    padding: 20px 25px 20px 25px;
+    margin-top: 30px;
+  }
+  .banner-discription{
+    color: #474747;
+  }
+  .main-section{
+    display: flex;
+  }
+  .photo-discription{
+    margin-top: 350px;
+    margin-left: 87px;
+  
+  }
+  .add-image{
+    height: 93px;
+    width: 93px;
+  }
+  .palans-header{
+    font-size: 30px;
+  }
+  .p-color{
+    color: #474747;
+    font-size: 25px;
+  }
+  .Plans-box{
+    display: flex;
+    margin-left: 230px;
+  }
+  .section-title{
+    text-align: center;
+    font-size: 40px;
+  }
+  .div-item{
+    margin-top: 50px;
+    margin-right: 86px;
+  }
+  .section-watch{
+    background-image: url(../images/watch.png);
+    height: 300px;
+    width: 1140px;
+    margin-top: 135px;
+    margin-left: 230px;
+    margin-right: 230px;
+  }
+  .advise-item{
+
+  }
+  .advise{
+    font-size: 40px;
+    color: #FFFFFF;
+  }
+  .button-last{
+    height: 64px;
+    width: 160px;
+    font-size: 20px;
+    color: #F15B22;
+    border-radius: 5px;
+    border: none;
+    
+  }
+  .advise-item{
+    height: 182px;
+    width: 459px;
+    padding-top: 30px;
+    padding-left: 64px;
+
+  }
+  .footer-section{
+    height: 577px;
+    width: 1600px;
+    background-color: #151414;
+    display: flex;
+    margin-top: 130px;
+  }
+  .footer-div{
+    height: 317px;
+    width: 485px;
+    padding: 130px 885px 130px 230px;
+  }
+  .footer-header{
+    font-size: 45px;
+    color: #FFFFFF;
+  }
+  .footer-paragraph{
+    font-size: 16px;
+    color: #FFFFFF;
+  }
+  .footer-address{
+    color: #FFFFFF;
+  }
+  .footer-img{
+    height: 45px;
+    width: 45px;
+  }
+  .last-div{
+    height: 204px;
+    width: 325px;
+    padding: 30px; 
+    
+  }
